@@ -1,0 +1,15 @@
+C:\PROJECTS\DOTNET_1rst_Project\bin\Debug\net8.0\DOTNET_1rst_Project.exe
+C:\PROJECTS\DOTNET_1rst_Project\bin\Debug\net8.0\DOTNET_1rst_Project.deps.json
+C:\PROJECTS\DOTNET_1rst_Project\bin\Debug\net8.0\DOTNET_1rst_Project.runtimeconfig.json
+C:\PROJECTS\DOTNET_1rst_Project\bin\Debug\net8.0\DOTNET_1rst_Project.dll
+C:\PROJECTS\DOTNET_1rst_Project\bin\Debug\net8.0\DOTNET_1rst_Project.pdb
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\DOTNET_1rst_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\DOTNET_1rst_Project.AssemblyInfoInputs.cache
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\DOTNET_1rst_Project.AssemblyInfo.cs
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\DOTNET_1rst_Project.csproj.CoreCompileInputs.cache
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\DOTNET_1rst_Project.sourcelink.json
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\DOTNET_1rst_Project.dll
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\refint\DOTNET_1rst_Project.dll
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\DOTNET_1rst_Project.pdb
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\DOTNET_1rst_Project.genruntimeconfig.cache
+C:\PROJECTS\DOTNET_1rst_Project\obj\Debug\net8.0\ref\DOTNET_1rst_Project.dll
